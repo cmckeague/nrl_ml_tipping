@@ -1,0 +1,18 @@
+name: nrl_scraper
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - selenium
+  - ca-certificates
+  - openssl
+  - ipykernel
+  - certifi
+  - webdriver-manager
+  - pandas
+  - lxml
+  - beautifulsoup4
+  - html5lib
+  - polars
+prefix: /home/chris/miniconda3/envs/nrl_scraper
