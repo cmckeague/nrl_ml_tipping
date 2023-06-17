@@ -22,7 +22,7 @@ title: Tipping NRL Games with ML
 description: >- # this means to ignore newlines until "baseurl:"
   Experimenting with ML XGboost for tipping NRL game results.
 domain: cmckeague.github.io
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/nrl_ml_tipping" # the subpath of your site, e.g. /blog
 url: https://cmckeague.github.io/nrl_ml_tipping # the base hostname & protocol for your site, e.g. http://example.com
 
 twitter_username: cmckeague
