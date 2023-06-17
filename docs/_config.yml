@@ -21,13 +21,13 @@
 title: Tipping NRL Games with ML
 description: >- # this means to ignore newlines until "baseurl:"
   Experimenting with ML XGboost for tipping NRL game results.
-baseurl: "docs" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "cmckeague.github.io/nrl_ml_tipping" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: cmckeague
 github_username:  cmckeague
 
 # Build settings
-remote-theme: pages-themes/hacker@v0.2.0
+remote_theme: pages-themes/hacker@v0.2.0
 plugins:
   - jekyll-feed
   - jekyll-remote-theme
